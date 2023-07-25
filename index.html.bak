@@ -19,22 +19,19 @@
         <div id="tswcontproper" style="color: #ffff33;">
           <!-- start of content column: insert your content here -->
           <h1 style="color: #ffff33;">Home Page</h1>
-          <h2>My interests<br>
-          </h2>
-          <p> Placeholder content. Replace everything here with your actual
-            content. </p>
-          <p> If you want a navigation menu for your side column that looks like
-            the one on thesitewizard.com, you can generate your own and
-            customize it, with the <a href="https://www.thesitewizard.com/wizards/css-menu-buttons.shtml">Navigation
-              Menu Wizard</a>. It's free, just like the <a href="https://www.thesitewizard.com/wizards/layout.shtml">Layout
-              Wizard</a> that you used to create this. </p>
-          <p> And if you want a contact form (ie, one that your visitors can use
-            to reach you), go to the <a href="https://www.thesitewizard.com/wizards/feedbackform.shtml">Feedback
-              Form Wizard</a> to create one. Yes, it's free too. </p>
-          <p> Okay, that's it. I've run out of meaningful things to say for this
-            placeholder content, and can't be bothered to think up any more
-            stuff that you're just going to delete anyway. </p>
-          <p> All the best for your site! </p>
+          <h2>My interests</h2>
+          <p>- Music</p>
+          <p>&nbsp;&nbsp;&nbsp; - listen to all different genres</p>
+          <p>&nbsp;&nbsp;&nbsp; - play piano and guitar</p>
+          <p>- Sports</p>
+          <p>&nbsp;&nbsp;&nbsp; - enjoy watching American football and
+            basketball</p>
+          <p>&nbsp;&nbsp;&nbsp; - play basketball and pickleball</p>
+          <p>- Video Games</p>
+          <p>&nbsp;&nbsp;&nbsp; - play nearly every genre of game</p>
+          <p>&nbsp;&nbsp;&nbsp; - mostly play Valorant, Minecraft, and
+            Trackmania</p>
+          <p>&nbsp;&nbsp;&nbsp; - sometimes stream on Twitch</p>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
@@ -44,10 +41,6 @@
           <div id="tswcssbuttons">
             <ul>
               <li><a href="https://users.wpi.edu/%7Etlevitt/">Home</a></li>
-              <li><a href="https://users.wpi.edu/%7Etlevitt/">Introduction</a></li>
-              <li><a href="https://users.wpi.edu/%7Etlevitt/">Achievements</a></li>
-              <li><a href="https://users.wpi.edu/%7Etlevitt/">Interests</a></li>
-              <li><a href="https://users.wpi.edu/%7Etlevitt/">Contact Info</a></li>
             </ul>
           </div>
           <!-- end of side column: put your navigation menu, etc, above this line -->
