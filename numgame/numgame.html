@@ -1,23 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NumGame</title>
-</head>
-<body onload="loadGame()">
-    <h1>Number Guessing Game</h1>
-    <p>Rules:</p>
-
-    <label>Guess: </label>
-    <input id="guess" type="number" min="0"></input>
-    <button onclick="makeGuess()">GUESS!</button>
-
-    <br/>
-
-    <p id="report">Start of report</p>
-
+    <link rel="stylesheet" href="numgame.css">
+  </head>
+  <body onload="loadGame()" style=" background-color: #fc0fc0;">
+    <h1 style="color: #ffff33;">Number Guessing Game</h1>
+    <p style="color: #ffff33;">Guess the number between 1 and 1000000!</p>
+    <label style="color: #ffff33;">Guess: </label> <input id="guess" min="0" type="number">
+    <button onclick="makeGuess()" style="color: #ffff33;">GUESS!</button> <br>
+    <p id="report" style="color: #ffff33">Start of report</p>
     <script src="numgame.js"></script>
-</body>
+  </body>
 </html>
