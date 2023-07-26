@@ -11,7 +11,8 @@
   </head>
   <body>
     <div id="tswcontainer" style="background-color: #fc0fc0;">
-      <div id="tswheader"> <!-- start of header section: insert your logo, etc, here -->
+      <div id="tswheader">
+        <!-- start of header section: insert your logo, etc, here -->
         <h1 style="background-color: #fc0fc0;">&nbsp;Theo's Frontiers Website</h1>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent" style="background-color: #fc0fc0;">
@@ -43,8 +44,6 @@
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
         <p style="background-color: #fc0fc0;">Thanks for visiting!</p>
-        <p style="background-color: #fc0fc0;">"Graphic design is my passion." -
-          Vinesauce Joel 2014</p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>

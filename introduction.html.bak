@@ -38,7 +38,10 @@
               <li><a href="index.html">Home</a></li>
               <li><a href="introduction.html">Introduction</a></li>
               <li><a href="Achievements.html">Achievements</a></li>
+              <li><a href = "numgame.html">Number Guessing Game</a></li>
               <li><a href="contact.html">Contact Me</a></li>
+              <li><br>
+              </li>
             </ul>
           </div>
           <!-- end of side column: put your navigation menu, etc, above this line -->

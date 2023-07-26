@@ -19,9 +19,20 @@
         <div id="tswcontproper" style="color: #ffff33;">
           <!-- start of content column: insert your content here -->
           <h1 style="color: #ffff33;">Achievements</h1>
-          My name is Theo Levitt. I am currently 15 years old, and am a rising
-          junior at Bridgewater-Raritan High School. I was born in Bridgewater,
-          New Jersey and have continued to live there my whole life.<br>
+          Some notable academic achievements of mine include:</div>
+        <div style="color: #ffff33;">&nbsp;- 1360 on PSAT 8/9</div>
+        <div style="color: #ffff33;">&nbsp;- 1420 on PSAT 10</div>
+        <div style="color: #ffff33;">&nbsp;- 4.3 GPA sophmore year</div>
+        <div style="color: #ffff33;">&nbsp;- 4.2 GPA + High Honor Roll freshman
+          year</div>
+        <div style="color: #ffff33;"><br>
+        </div>
+        <div style="color: #ffff33;">&nbsp;Some important personal and
+          extracurricular achievements include:</div>
+        <div style="color: #ffff33;">&nbsp;- 250 followers on Twitch</div>
+        <div style="color: #ffff33;">&nbsp;- $300 made from Twitch</div>
+        <div style="color: #ffff33;">&nbsp;- robotics team(Team 303) qualified
+          for the regional competition at LeHigh<br>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
@@ -30,7 +41,10 @@
           <!-- start of side column: insert your navigation menu, etc, here -->
           <div id="tswcssbuttons">
             <ul>
-              <li><a href="https://users.wpi.edu/%7Etlevitt/">Home</a></li>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="introduction.html">Introduction</a></li>
+              <li><a href="Achievements.html">Achievements</a></li>
+              <li><a href="contact.html">Contact Me</a></li>
             </ul>
           </div>
           <!-- end of side column: put your navigation menu, etc, above this line -->
@@ -43,5 +57,6 @@
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
+    
   </body>
 </html>
