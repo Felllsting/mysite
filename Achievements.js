@@ -10,9 +10,9 @@ function sleep(milliseconds) {
 
 while (true){
 
-    title.style.color = "RED";
-    sleep(0.5);
-    title.style.color = "YELLOW";
-    sleep(0.5);
+    title.style.color = "#ff0000";
+    sleep(500);
+    title.style.color = "#ffff00";
+    sleep(500);
     
 }
